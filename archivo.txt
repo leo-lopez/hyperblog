@@ -1,5 +1,5 @@
-es solo un archivo
-funcionó
-bueno me llamo juan leonardo lopez gracias
-tengo 24 años
-una re secuencia git, es realmente muy util
+es solo un archivo 
+
+mañana seguiremos con git y github
+
+y si llegamos seguimos con html y css
