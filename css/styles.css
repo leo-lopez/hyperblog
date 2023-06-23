@@ -1,5 +1,17 @@
 body {
     text-align: center;
-    background-color: beige;
-    color: #d841d8
+    background-color: #000;
+    font-size: 16px;
+    color: #dcd3d3
+}
+#container {
+    width: 70%;
+    padding:  1em;
+    text-align: left;
+    border: 1px solid #9090d8;
+    margin: 0 auto;
+}
+
+#container h1{
+    font-size: 20px;
 }
