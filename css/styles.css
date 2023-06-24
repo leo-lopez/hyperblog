@@ -6,7 +6,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 #container {
-    width: 75%;
+    width: 70%;
     text-align: left;
     border: 1px solid #9090d8;
     margin: 0 auto;
@@ -16,12 +16,18 @@ body {
     font-size: 20px;
 }
 #cabecera {
-    background: #3235c7;;
+    display: flex;
+    align-items: center;
+    background: #3235c7;
     box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.5);
     color: #ffffff;
     font-weight: bold;
     padding: 0.5em;
     margin: 0;
+}
+#cabecera #logo{
+    width: 50px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline{
