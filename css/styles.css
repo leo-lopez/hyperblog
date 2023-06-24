@@ -33,5 +33,15 @@ body {
 #post{
  color: rgb(0, 0, 0);
  padding: 1em;
- font-size: 30px;
+ font-size: 20px;
+}
+
+#footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    font-size: 20px;
+    color: #026108;
+    background-color: rgb(221, 179, 125);
 }
