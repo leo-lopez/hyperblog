@@ -35,11 +35,18 @@ body {
     font-weight: normal;
     font-size: 0.8em;
 }
+#imagen {
+    width: 200px;
+}
 
 #post{
  color: rgb(0, 0, 0);
  padding: 1em;
  font-size: 20px;
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+ justify-content: center;
 }
 
 #footer{
