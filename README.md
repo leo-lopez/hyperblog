@@ -14,4 +14,6 @@ Bueno lo que aprendi fue lo siguiente:
 - importancia y creacion de la llave ssh
 - hacer un repositorio remoto en github
 - subir el blog a github
+- flujo de trabajo en github
+- hacer buenas practicas
 - pull requests y fork
